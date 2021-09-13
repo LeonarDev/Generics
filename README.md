@@ -29,7 +29,7 @@ exemplo. Em seguida, informar qual foi o primeiro valor informado.
 
 <br>
 
-### solução com generics
+### Solução com generics
 Deseja-se fazer um programa que leia um conjunto de N números inteiros (N de
 1 a 10), e depois imprima esses números de forma organizada conforme
 exemplo. Em seguida, informar qual foi o primeiro valor informado.
@@ -74,20 +74,24 @@ operações. Classes e structs personalizados precisam sobrepô-las.
 Método que compara se o objeto é igual a outro, retornando
 true ou false.
 
-`string a = "Maria";`
-`string b = "Alex";`
+```c#
+string a = "Maria";
+string b = "Alex";
 
-`Console.WriteLine(a.Equals(b));`
+Console.WriteLine(a.Equals(b));
+```
 
 ### GetHashCode
 Método que retorna um número inteiro representando um código gerado
 a partir das informações do objeto.
 
-`string a = "Maria";`
-`string b = "Alex";`
+```c#
+string a = "Maria";
+string b = "Alex";
 
-`Console.WriteLine(a.GetHashCode());`
-`Console.WriteLine(b.GetHashCode());`
+Console.WriteLine(a.GetHashCode());
+Console.WriteLine(b.GetHashCode());
+```
 
 ### Regra de ouro do GetHashCode
 - Se o código de dois objetos for diferente, então os dois objetos são
