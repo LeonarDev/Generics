@@ -6,7 +6,10 @@ namespace Generics
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string a = "Maria";
+            string b = "Alex";
+
+            Console.WriteLine(a.Equals(b));
         }
     }
 }
