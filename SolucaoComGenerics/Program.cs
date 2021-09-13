@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Generics
+namespace SolucaoComGenerics
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello World!");
         }
     }
 }
