@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_ProblemaMotivador2", "Pro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_SolucaoComGenerics", "SolucaoComGenerics\3_SolucaoComGenerics.csproj", "{3926D10B-29FD-468F-A094-66C4AAD7FB6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetHashCodeEqualsPersonalizados", "GetHashCodeEqualsPersonalizados\GetHashCodeEqualsPersonalizados.csproj", "{6C13A289-C8AE-447E-B358-58902D7E7E39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_GetHashCodeEqualsPersonalizados", "GetHashCodeEqualsPersonalizados\5_GetHashCodeEqualsPersonalizados.csproj", "{6C13A289-C8AE-447E-B358-58902D7E7E39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
