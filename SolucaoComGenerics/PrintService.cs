@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SolucaoComGenerics
+namespace _3_SolucaoComGenerics
 {
     class PrintService<T>
     {

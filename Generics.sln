@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_ProblemaMotivador2", "Pro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_SolucaoComGenerics", "SolucaoComGenerics\3_SolucaoComGenerics.csproj", "{3926D10B-29FD-468F-A094-66C4AAD7FB6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_GetHashCodeEqualsPersonalizados", "GetHashCodeEqualsPersonalizados\5_GetHashCodeEqualsPersonalizados.csproj", "{6C13A289-C8AE-447E-B358-58902D7E7E39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5_GetHashCodeEqualsPersonalizados", "GetHashCodeEqualsPersonalizados\5_GetHashCodeEqualsPersonalizados.csproj", "{6C13A289-C8AE-447E-B358-58902D7E7E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_HashSetsESortedSets", "HashSets\6_HashSetsESortedSets.csproj", "{B032D93E-65A6-47F3-B187-EDCDABB990E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{6C13A289-C8AE-447E-B358-58902D7E7E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C13A289-C8AE-447E-B358-58902D7E7E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C13A289-C8AE-447E-B358-58902D7E7E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B032D93E-65A6-47F3-B187-EDCDABB990E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B032D93E-65A6-47F3-B187-EDCDABB990E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B032D93E-65A6-47F3-B187-EDCDABB990E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B032D93E-65A6-47F3-B187-EDCDABB990E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

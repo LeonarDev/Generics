@@ -1,7 +1,7 @@
 ﻿using GetHashCodeEqualsPersonalizados.Entities;
 using System;
 
-namespace GetHashCodeEqualsPersonalizados
+namespace _5_GetHashCodeEqualsPersonalizados
 {
     class Program
     {

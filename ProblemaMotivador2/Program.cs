@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ProblemaMotivador2
+namespace _2_ProblemaMotivador2
 {
     class Program
     {

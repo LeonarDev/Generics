@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ProblemaMotivador1
+namespace _1_ProblemaMotivador1
 {
     class PrintService
     {

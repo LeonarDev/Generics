@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Globalization;
 using System.Collections.Generic;
-using Restricoes.Entities;
-using Restricoes.Services;
+using _4_Restricoes.Entities;
+using _4_Restricoes.Services;
 
-namespace Generics
+namespace _4_Retricoes
 {
     class Program
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Restricoes.Entities
+namespace _4_Restricoes.Entities
 {
     class Product : IComparable
     {
