@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5_GetHashCodeEqualsPersonal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6_HashSetsESortedSets", "HashSets\6_HashSetsESortedSets.csproj", "{B032D93E-65A6-47F3-B187-EDCDABB990E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7_Comparando_Igualdade_Hash", "_7_Comparando_Igualdade_Hash\_7_Comparando_Igualdade_Hash.csproj", "{103C6275-8465-49FF-A0E1-F991D448BC3B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_Comparando_Igualdade_Hash", "_7_Comparando_Igualdade_Hash\7_Comparando_Igualdade_Hash.csproj", "{103C6275-8465-49FF-A0E1-F991D448BC3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1", "Exercicio1\Exercicio1.csproj", "{8339D6AC-1F41-4A67-A67D-E764104A1D98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{103C6275-8465-49FF-A0E1-F991D448BC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{103C6275-8465-49FF-A0E1-F991D448BC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{103C6275-8465-49FF-A0E1-F991D448BC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8339D6AC-1F41-4A67-A67D-E764104A1D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8339D6AC-1F41-4A67-A67D-E764104A1D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8339D6AC-1F41-4A67-A67D-E764104A1D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8339D6AC-1F41-4A67-A67D-E764104A1D98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
