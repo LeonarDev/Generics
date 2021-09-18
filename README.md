@@ -117,9 +117,12 @@ Console.WriteLine(b.GetHashCode()); // 1021651916
 - Add
 - Clear
 - Contains
-- UnionWith(other) - operação união: adiciona no conjunto os elementos do outro conjunto, sem repetição
-- IntersectWith(other) - operação interseção: remove do conjunto os elementos não contidos em other
-- ExceptWith(other) - operação diferença: remove do conjunto os elementos contidos em other
+- UnionWith(other)
+  - operação união: adiciona no conjunto os elementos do outro conjunto, sem repetição
+- IntersectWith(other)
+  - operação interseção: remove do conjunto os elementos não contidos em other
+- ExceptWith(other)
+  - operação diferença: remove do conjunto os elementos contidos em other
 - Remove(T)
 - RemoveWhere(predicate)
 
@@ -153,13 +156,13 @@ Console.WriteLine(b.GetHashCode()); // 1021651916
   - Os elementos são armazenados ordenadamente conforme implementação IComparer<T>
 
 ### Alguns métodos importantes
-• dictionary[key] - acessa o elemento pela chave informada
-• Add(key, value) - adiciona elemento (exceção em caso de repetição)
-• Clear() - esvazia a coleção
-• Count - quantidade de elementos
-• ContainsKey(key) - verifica se a dada chave existe
-• ContainsValue(value) - verifica se o dado valor existe
-• Remove(key) - remove um elemento pela chave
+- dictionary[key] - acessa o elemento pela chave informada
+- Add(key, value) - adiciona elemento (exceção em caso de repetição)
+- Clear() - esvazia a coleção
+- Count - quantidade de elementos
+- ContainsKey(key) - verifica se a dada chave existe
+- ContainsValue(value) - verifica se o dado valor existe
+- Remove(key) - remove um elemento pela chave
 
 <br>
 
