@@ -1,4 +1,4 @@
-# Generics
+# Generics, Set e Dictionary
 
 https://docs.microsoft.com/pt-br/dotnet/standard/generics/
 
