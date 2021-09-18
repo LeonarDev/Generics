@@ -9,7 +9,7 @@ namespace Exercicio1
     {
         static void Main(string[] args)
         {
-            HashSet<LogRecord> set = new HashSet<LogRecord>;
+            HashSet<LogRecord> set = new HashSet<LogRecord>();
 
             Console.Write("Enter file full path: ");
             string path = Console.ReadLine();
